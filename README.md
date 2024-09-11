@@ -1,9 +1,16 @@
 ## Hi there, I'm Nitol Datta Pranto 👋
 
-- Undergraduate Student in the Department of Computer Science at American International University-Bangladesh (AIUB).
-- I'm currently learning on Data Science, Image Processing and Machine Learning
-- Recently working on IOT based applications
-- Interest: Data Science || Web Development || Deep Learning || IOT 
+- Current Studies: MASc. in Software Engineering at Memorial University of Newfoundland (MUN)
+- Previous Education: B.Sc. in Computer Science and Engineering from the American International University-Bangladesh (AIUB)
+- Research Interests:
+  - Machine Learning
+  - Deep Learning
+  - Medical Image Processing
+- Skills and Experience:
+  - Leadership
+  - Problem-Solving
+  - Project Management
+  - Former Teacher’s Assistant
 
 ### Connect with me:
 
